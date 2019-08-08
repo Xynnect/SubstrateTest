@@ -1,0 +1,1 @@
+substratekitties/./target/release/substratekitties --dev
